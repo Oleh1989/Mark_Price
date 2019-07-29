@@ -1,0 +1,9 @@
+C:\Users\olehb\source\repos\ForTests\ForTests\bin\Debug\netstandard2.0\ForTests.deps.json
+C:\Users\olehb\source\repos\ForTests\ForTests\bin\Debug\netstandard2.0\ForTests.dll
+C:\Users\olehb\source\repos\ForTests\ForTests\bin\Debug\netstandard2.0\ForTests.pdb
+C:\Users\olehb\source\repos\ForTests\ForTests\obj\Debug\netstandard2.0\ForTests.csprojAssemblyReference.cache
+C:\Users\olehb\source\repos\ForTests\ForTests\obj\Debug\netstandard2.0\ForTests.csproj.CoreCompileInputs.cache
+C:\Users\olehb\source\repos\ForTests\ForTests\obj\Debug\netstandard2.0\ForTests.AssemblyInfoInputs.cache
+C:\Users\olehb\source\repos\ForTests\ForTests\obj\Debug\netstandard2.0\ForTests.AssemblyInfo.cs
+C:\Users\olehb\source\repos\ForTests\ForTests\obj\Debug\netstandard2.0\ForTests.dll
+C:\Users\olehb\source\repos\ForTests\ForTests\obj\Debug\netstandard2.0\ForTests.pdb

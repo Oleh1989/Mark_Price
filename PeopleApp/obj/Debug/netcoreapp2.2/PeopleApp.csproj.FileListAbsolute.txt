@@ -1,0 +1,14 @@
+C:\Users\olehb\source\repos\ForTests\PeopleApp\bin\Debug\netcoreapp2.2\PeopleApp.deps.json
+C:\Users\olehb\source\repos\ForTests\PeopleApp\bin\Debug\netcoreapp2.2\PeopleApp.runtimeconfig.json
+C:\Users\olehb\source\repos\ForTests\PeopleApp\bin\Debug\netcoreapp2.2\PeopleApp.runtimeconfig.dev.json
+C:\Users\olehb\source\repos\ForTests\PeopleApp\bin\Debug\netcoreapp2.2\PeopleApp.dll
+C:\Users\olehb\source\repos\ForTests\PeopleApp\bin\Debug\netcoreapp2.2\PeopleApp.pdb
+C:\Users\olehb\source\repos\ForTests\PeopleApp\bin\Debug\netcoreapp2.2\ForTests.dll
+C:\Users\olehb\source\repos\ForTests\PeopleApp\bin\Debug\netcoreapp2.2\ForTests.pdb
+C:\Users\olehb\source\repos\ForTests\PeopleApp\obj\Debug\netcoreapp2.2\PeopleApp.csprojAssemblyReference.cache
+C:\Users\olehb\source\repos\ForTests\PeopleApp\obj\Debug\netcoreapp2.2\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Users\olehb\source\repos\ForTests\PeopleApp\obj\Debug\netcoreapp2.2\PeopleApp.AssemblyInfoInputs.cache
+C:\Users\olehb\source\repos\ForTests\PeopleApp\obj\Debug\netcoreapp2.2\PeopleApp.AssemblyInfo.cs
+C:\Users\olehb\source\repos\ForTests\PeopleApp\obj\Debug\netcoreapp2.2\PeopleApp.csproj.CopyComplete
+C:\Users\olehb\source\repos\ForTests\PeopleApp\obj\Debug\netcoreapp2.2\PeopleApp.dll
+C:\Users\olehb\source\repos\ForTests\PeopleApp\obj\Debug\netcoreapp2.2\PeopleApp.pdb
