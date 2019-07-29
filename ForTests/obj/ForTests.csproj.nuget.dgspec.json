@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olehb\\source\\repos\\ForTests\\ForTests\\ForTests.csproj": {}
+    "D:\\Projects\\Mark_Price\\ForTests\\ForTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olehb\\source\\repos\\ForTests\\ForTests\\ForTests.csproj": {
+    "D:\\Projects\\Mark_Price\\ForTests\\ForTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olehb\\source\\repos\\ForTests\\ForTests\\ForTests.csproj",
+        "projectUniqueName": "D:\\Projects\\Mark_Price\\ForTests\\ForTests.csproj",
         "projectName": "ForTests",
-        "projectPath": "C:\\Users\\olehb\\source\\repos\\ForTests\\ForTests\\ForTests.csproj",
-        "packagesPath": "C:\\Users\\olehb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olehb\\source\\repos\\ForTests\\ForTests\\obj\\",
+        "projectPath": "D:\\Projects\\Mark_Price\\ForTests\\ForTests.csproj",
+        "packagesPath": "C:\\Users\\OlehB\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Mark_Price\\ForTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\olehb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\OlehB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

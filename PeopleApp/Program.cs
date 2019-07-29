@@ -97,6 +97,44 @@ namespace PeopleApp
             WriteLine(p1.OptionalParameters());
             WriteLine(p1.OptionalParameters("Jump!", 98.5));
             WriteLine(p1.OptionalParameters(number: 52.7, command: "Hide!"));
+
+            WriteLine(new string('-', 50));
+            int a = 10, b = 20, c = 30;
+            WriteLine($"Before : a = {a}, b = {b}, c = {c}");
+            p1.PassingParametrs(a, ref b, out c);
+            WriteLine($"After : a = {a}, b = {b}, c = {c}");
+
+
+            // simplify out parameters syntax in C# 7
+            int d = 10;
+            int e = 20;
+            WriteLine($"Before : d = {d}, e = {e}, f doesn't exist yet");
+            p1.PassingParametrs(d, ref e, out int f);
+            WriteLine($"Before : d = {d}, e = {e}, f = {f}");
+
+
+            WriteLine(new string('-', 50));
+            var Sam = new Person
+            {
+                Name = "Sam",
+                DateOfBirth = new DateTime(1972, 1, 27)
+            };
+            WriteLine(Sam.Origin);
+            WriteLine(Sam.Greeting);
+            Write(Sam.Age);
+
+            Sam.FavoriteIceCream = "Chocolate Fudge";
+            WriteLine($"Sam's favorite ice-cream flavor is {Sam.FavoriteIceCream}.");
+            Sam.FavoritePrimaryColor = "Red";
+            WriteLine($"Sam's favorite primary color is {Sam.FavoritePrimaryColor}.");
+
+            WriteLine(new string('-', 50));
+            Sam.Children.Add(new Person { Name = "Charlie" });
+            Sam.Children.Add(new Person { Name = "Ella" });
+            WriteLine($"Sam's first child is {Sam.Children[0].Name}");
+            WriteLine($"Sam's swcond child is {Sam.Children[1].Name}");
+            WriteLine($"Sam's first child is {Sam[0].Name}");
+            WriteLine($"Sam's second child is {Sam[1].Name}");
         }
     }
 }

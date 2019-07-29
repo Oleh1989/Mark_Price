@@ -7,3 +7,12 @@ C:\Users\olehb\source\repos\ForTests\ForTests\obj\Debug\netstandard2.0\ForTests.
 C:\Users\olehb\source\repos\ForTests\ForTests\obj\Debug\netstandard2.0\ForTests.AssemblyInfo.cs
 C:\Users\olehb\source\repos\ForTests\ForTests\obj\Debug\netstandard2.0\ForTests.dll
 C:\Users\olehb\source\repos\ForTests\ForTests\obj\Debug\netstandard2.0\ForTests.pdb
+D:\Projects\Mark_Price\ForTests\bin\Debug\netstandard2.0\ForTests.deps.json
+D:\Projects\Mark_Price\ForTests\bin\Debug\netstandard2.0\ForTests.dll
+D:\Projects\Mark_Price\ForTests\bin\Debug\netstandard2.0\ForTests.pdb
+D:\Projects\Mark_Price\ForTests\obj\Debug\netstandard2.0\ForTests.csprojAssemblyReference.cache
+D:\Projects\Mark_Price\ForTests\obj\Debug\netstandard2.0\ForTests.csproj.CoreCompileInputs.cache
+D:\Projects\Mark_Price\ForTests\obj\Debug\netstandard2.0\ForTests.AssemblyInfoInputs.cache
+D:\Projects\Mark_Price\ForTests\obj\Debug\netstandard2.0\ForTests.AssemblyInfo.cs
+D:\Projects\Mark_Price\ForTests\obj\Debug\netstandard2.0\ForTests.dll
+D:\Projects\Mark_Price\ForTests\obj\Debug\netstandard2.0\ForTests.pdb

@@ -4,7 +4,7 @@ using static System.Console;
 
 namespace ForTests
 {
-    public class Person : Object
+    public partial class Person : Object
     {
         // fields
         public string Name;
@@ -80,6 +80,16 @@ namespace ForTests
         {
             return $"command is {command}, number is {number}, " +
                 $"active is {active}";
+        }
+
+        public void PassingParametrs(int x, ref int y, out int z)
+        {
+            // out parameters can not have a default value and
+            // should be initialised in method
+            z = 99;
+
+            // increment
+            x++; y++; z++;
         }
     }
 }
